@@ -1,11 +1,13 @@
 title: Cheng Tang # your name (or website title) here
 logo: "/images/linkedin_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my portfolio page! On the right is an incomprehensive list of project I've worked on.
   <br><br>
-  Second description 
+  I am a graduate from NYU with a MS degree in Scientific Computing. 
+  Prior to that, I obtained my Bachelor's degree in Physics from the University of Illinois, Urbana-Champaign.
+  I am experienced with numerical analysis and data science. More recently, I am working as a machine learning researcher @ NYU Center for Data Science
   <br><br>
-  <a href="https://www.linkedin.com/in/cheng-tang137/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cheng-tang137/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
