@@ -5,7 +5,7 @@
 ### Research Projects @ NYU Center For Data Science
 
 [Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/non-sep-hamiltonian.png?raw=true"/>
 
 Learning to integrate Hamiltonian Dynamics through unsupervised learning(where we have access only to the Hamiltonian) and supervised learning(where we have access to data).
 
