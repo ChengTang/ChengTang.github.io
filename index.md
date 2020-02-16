@@ -24,7 +24,9 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 <img src="images/opt_grad.png" width = "1000" height = "200" />
 
 
-This is a study of appropriate optimization algorithms for extremely ill-conditioned, non-convex regression problem where small optimization error is desired. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out-perform all of the popular first order methods(e.g. gradient descent, Adam, ...) and other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method). The plots above compares performance of the Krylov based method with ADAM and the full Newton method on a toy regression problem. 
+This is a study of appropriate optimization algorithms for extremely ill-conditioned, non-convex regression problem where small optimization error is desired. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out-perform all of the popular first order methods(e.g. gradient descent, Adam, ...) and many other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method). 
+
+The plots above compares performance of the Krylov based method with ADAM and the full Newton method(where full Hessian is needed and factorized; a O(N^3) algorithm) on a toy regression problem. The Krylov based method with full reorthogonalization has complexity O(k^2 N) and has both fast convergence and scalability.
 
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
