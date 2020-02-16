@@ -11,8 +11,8 @@ Learning to integrate Hamiltonian Dynamics through unsupervised learning(where w
 
 ---
 [Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
-<img src="images/opt_loss.png?raw=true" width = 1000 height = 50>
-<img src="images/opt_grad.png?raw=true" width = 1000 height = 100>
+<img src="images/opt_loss.png?raw=true" width = 1000 height = 300>
+<img src="images/opt_grad.png?raw=true" width = 1000 height = 200>
 
 
 A study of optimization algorithms for extremely ill-conditioned, non-convex regression problem where optimization error is crucial. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out perform all of the popular first-order methods(e.g. gradient descent, Adam, ...) and other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method).
