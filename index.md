@@ -15,6 +15,6 @@ Learning to integrate Hamiltonian Dynamics through unsupervised learning(where w
 <img src="images/opt_grad.png?raw=true" width = 1000 height = 400>
 
 
-A study of optimization algorithms for extremely ill-conditioned, non-convex regression problem where optimization error is crucial. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out perform all of the popular first-order methods(e.g. gradient descent, Adam, ...) and other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method).
+A study of optimization algorithms for extremely ill-conditioned, non-convex regression problem where optimization error is crucial. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out perform all of the popular first-order methods(e.g. gradient descent, Adam, ...) and other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method). The plots above compares performance of the Krylov based method with ADAM and the full Newton method on a toy regression problem.
 
 ---
