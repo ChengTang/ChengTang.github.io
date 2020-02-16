@@ -1,8 +1,7 @@
-## Portfolio
 ---
-### Research @ NYU Center For Data Science
+## Research @ NYU Center For Data Science
 
-[Symplectic Integration of Dynamical System with Neural Network](https://github.com/ChengTang/SymplecticNetwork)
+### [Symplectic Integration of Dynamical System with Neural Network](https://github.com/ChengTang/SymplecticNetwork)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
@@ -22,7 +21,7 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 
 ** Click on the project title above to learn more. **
 ---
-[Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
+### [Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
 <img src="images/opt_grad.png" width = "700" height = "200" />
 
@@ -35,7 +34,7 @@ The Tensorflow implementation of the second order method using Krylov subspace m
 
 ** Click on the project title above to learn more. **
 ---
-### Projects @ NYU
+## Projects @ NYU
 
 <img src="images/scattering.png" width = "1000" height = "200" />
 
