@@ -29,6 +29,12 @@ This is a study of optimization algorithms for extremely ill-conditioned, non-co
 
 The plots above compares performance of the Krylov based method with ADAM and the full Newton method(where full Hessian is needed and factorized; a O(N^3) algorithm) on a toy regression problem. The Krylov based method with full reorthogonalization has complexity O(k^2 N) and has both fast convergence and scalability.
 
+Runtime & iteration of the three algorithms:
+
+1. krylov: 2575 seconds, 10,000 iterations
+2. newton: 4320 seconds, 2000 iterations
+3. adam: 7629 seconds, 5,000,000 iterations
+
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
 ---
