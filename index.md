@@ -4,16 +4,17 @@
 
 [Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
-<img src="images/spring_pendulum.png?raw=true" width = "600" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
+<img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
 
 I came up with a framework for learning to integrate Hamiltonian Dynamics through unsupervised learning(where we have access only to the Hamiltonian) and supervised learning(where we have access to data). See above for examples of learned dynamics of 
 
 1. a non-separable Hamiltonian 
 
-2. a spring-pendulum system with 2 degrees of freedom
+2. a mass-spring system with 10 degrees of freedom. 
 
-3. a mass-spring system with 10 degrees of freedom. 
+3. a spring-pendulum system with 2 degrees of freedom
+
 
 Symplecticity is built into the architecture of the neural network using the idea of Normalizing Flow and symplectic transformation, and the dynamic of a particular Hamiltonian system is learned through minimizing the loss function that encodes the physics of the Hamiltonian system. 
 
