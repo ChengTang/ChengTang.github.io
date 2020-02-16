@@ -1,4 +1,3 @@
----
 ## Research @ NYU Center For Data Science
 
 ### [Symplectic Integration of Dynamical System with Neural Network](https://github.com/ChengTang/SymplecticNetwork)
