@@ -35,7 +35,7 @@ Runtime & iteration of the three algorithms:
 2. **newton: 4320 seconds, 2000 iterations**
 3. **adam: 7629 seconds, 5,000,000 iterations**
 
-The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
+The Tensorflow implementation of the second order method using Krylov subspace method can be found in the link above. 
 
 ---
 
