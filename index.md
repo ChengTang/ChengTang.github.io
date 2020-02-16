@@ -31,9 +31,9 @@ The plots above compares performance of the Krylov based method with ADAM and th
 
 Runtime & iteration of the three algorithms:
 
-1. krylov: 2575 seconds, 10,000 iterations
-2. newton: 4320 seconds, 2000 iterations
-3. adam: 7629 seconds, 5,000,000 iterations
+1. **krylov: 2575 seconds, 10,000 iterations**
+2. **newton: 4320 seconds, 2000 iterations**
+3. **adam: 7629 seconds, 5,000,000 iterations**
 
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
