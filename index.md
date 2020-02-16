@@ -32,10 +32,11 @@ The plots above compares performance of the Krylov based method with ADAM and th
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
 ---
+
 ## Projects @ NYU
 
-<img src="images/scattering.png" width = "1000" height = "200" />
 ### Fast CUDA Kernel for Scattering Invariant Convolutional Neural Network
 #### Project URL:[https://github.com/ChengTang/HPC_SP19_project](https://github.com/ChengTang/HPC_SP19_project)
+<img src="images/scattering.png" width = "1000" height = "200" />
 
 Wrote GPU acclerated kernels for scattering-invariant convolutional network in C++, as my High Performance Computing class project. Parallelized scattering transformation for feature extraction from batches of image data. Mostly an engineering project.
