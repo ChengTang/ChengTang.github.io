@@ -31,6 +31,8 @@ The Tensorflow implementation of the second order method using Krylov subspace m
 ---
 ### Projects @ NYU
 
+<img src="images/scattering.png" width = "1000" height = "200" />
+
 Fast CUDA Kernel for Scattering Invariant Convolutional Neural Network
 
 Wrote GPU acclerated kernels for scattering-invariant convolutional network in C++, as my High Performance Computing class project. Parallelized scattering transformation for feature extraction from batches of image data. Mostly an engineering project.
