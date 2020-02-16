@@ -3,9 +3,9 @@
 ### Research @ NYU Center For Data Science
 
 [Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
-<img src="images/non-sep-hamiltonian.png?raw=true"/>
-<img src="images/spring_pendulum.png?raw=true"/>
-<img src="images/mass_spring_system.png?raw=true"/>
+<img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
+<img src="images/spring_pendulum.png?raw=true" width = "1000" height = "200" />
+<img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 
 I came up with a framework for learning to integrate Hamiltonian Dynamics through unsupervised learning(where we have access only to the Hamiltonian) and supervised learning(where we have access to data). See above for examples of learned dynamics of 
 
