@@ -20,7 +20,7 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 
 ---
 ### Scalable Second Order Method for Non-Convex Optimization
-#### Project URL:[](http://example.com/)
+#### Project URL:[https://github.com/ChengTang/Krylov_NeuralNet](https://github.com/ChengTang/Krylov_NeuralNet)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
 <img src="images/opt_grad.png" width = "700" height = "200" />
 
