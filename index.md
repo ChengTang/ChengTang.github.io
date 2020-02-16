@@ -34,6 +34,7 @@ The plots above compares performance of the Krylov based method with ADAM and th
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
 ** Click on the project title above to learn more. **
+
 ---
 ### Projects @ NYU
 
