@@ -11,7 +11,7 @@ Learning to integrate Hamiltonian Dynamics through unsupervised learning(where w
 
 ---
 [Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
-![] https://github.com/ChengTang/ChengTang.github.io/blob/master/images/opt_grad.png = 1000 X 400
+![](https://github.com/ChengTang/ChengTang.github.io/blob/master/images/opt_grad.png = 1000 X 400)
 <img src="images/opt_grad.png" width = 1000 height = 400>
 
 
