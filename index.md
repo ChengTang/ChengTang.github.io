@@ -1,6 +1,6 @@
 ## Research @ NYU Center For Data Science
 ### Symplectic Integration of Dynamical System with Neural Network
-### [Project URL:](https://github.com/ChengTang/SymplecticNetwork)
+#### Project URL:[https://github.com/ChengTang/SymplecticNetwork](https://github.com/ChengTang/SymplecticNetwork)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
@@ -20,7 +20,7 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 
 ---
 ### Scalable Second Order Method for Non-Convex Optimization
-### [Project URL:](http://example.com/)
+#### Project URL:[](http://example.com/)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
 <img src="images/opt_grad.png" width = "700" height = "200" />
 
