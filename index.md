@@ -1,6 +1,6 @@
 ## Research @ NYU Center For Data Science
 ### Symplectic Integration of Dynamical System with Neural Network
-#### Project URL:[https://github.com/ChengTang/SymplecticNetwork](https://github.com/ChengTang/SymplecticNetwork)
+#### Learn more: [https://github.com/ChengTang/SymplecticNetwork](https://github.com/ChengTang/SymplecticNetwork)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
@@ -20,7 +20,7 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 
 ---
 ### Scalable Second Order Method for Non-Convex Optimization
-#### Project URL:[https://github.com/ChengTang/Krylov_NeuralNet](https://github.com/ChengTang/Krylov_NeuralNet)
+#### Learn more:[https://github.com/ChengTang/Krylov_NeuralNet](https://github.com/ChengTang/Krylov_NeuralNet)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
 <img src="images/opt_grad.png" width = "700" height = "200" />
 
@@ -42,7 +42,7 @@ The Tensorflow implementation of the second order method using Krylov subspace m
 ## Projects @ NYU
 
 ### Fast CUDA Kernel for Scattering Invariant Convolutional Neural Network
-#### Project URL:[https://github.com/ChengTang/HPC_SP19_project](https://github.com/ChengTang/HPC_SP19_project)
+#### Learn more:[https://github.com/ChengTang/HPC_SP19_project](https://github.com/ChengTang/HPC_SP19_project)
 <img src="images/scattering.png" width = "1000" height = "200" />
 
 Wrote GPU acclerated kernels for scattering-invariant convolutional network in C++, as my High Performance Computing class project. Parallelized scattering transformation for feature extraction from batches of image data. Mostly an engineering project.
