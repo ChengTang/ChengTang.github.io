@@ -1,4 +1,6 @@
-## Research @ NYU Center For Data Science
+## Portfolio
+---
+### Research @ NYU Center For Data Science
 
 [Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
 <img src="images/non-sep-hamiltonian.png?raw=true"/>
@@ -27,3 +29,8 @@ The plots above compares performance of the Krylov based method with ADAM and th
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
 ---
+### Projects @ NYU
+
+Fast CUDA Kernel for Scattering Invariant Convolutional Neural Network
+
+Wrote GPU acclerated kernels for scattering-invariant convolutional network in C++, as my High Performance Computing class project. Parallelized scattering transformation for feature extraction from batches of image data. Mostly an engineering project.
