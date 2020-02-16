@@ -22,7 +22,7 @@ In the supervised learning setting, the Hamiltonian(or, the physics) of a dynami
 ---
 [Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
-<img src="images/opt_grad.png" width = "1000" height = "200" />
+<img src="images/opt_grad.png" width = "700" height = "200" />
 
 
 This is a study of appropriate optimization algorithms for extremely ill-conditioned, non-convex regression problem where small optimization error is desired. A scalable second order method based on Krylov iteration that attacks the saddle point problem is found to out-perform all of the popular first order methods(e.g. gradient descent, Adam, ...) and many other scalable alternatives(e.g. quasi-Newton methods, conjugate gradient method). 
