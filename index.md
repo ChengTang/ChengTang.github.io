@@ -2,7 +2,7 @@
 ---
 ### Research @ NYU Center For Data Science
 
-[Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
+[Symplectic Integration of Dynamical System with Neural Network](http://example.com/)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
