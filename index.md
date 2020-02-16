@@ -1,6 +1,6 @@
 ## Research @ NYU Center For Data Science
-
-### [Symplectic Integration of Dynamical System with Neural Network](https://github.com/ChengTang/SymplecticNetwork)
+### Symplectic Integration of Dynamical System with Neural Network
+### [Project URL:](https://github.com/ChengTang/SymplecticNetwork)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
@@ -18,9 +18,9 @@ Symplecticity is built into the architecture of the neural network using the ide
 
 In the supervised learning setting, the Hamiltonian(or, the physics) of a dynamical system is learned, and one could retrieve the dynamics using symplectic integrators like leapfrog: it is related to the Hamiltonian neural network and the series of work that follows it.
 
-** Click on the project title above to learn more. **
 ---
-### [Scalable Second Order Method for Non-Convex Optimization](http://example.com/)
+### Scalable Second Order Method for Non-Convex Optimization
+### [Project URL:](http://example.com/)
 <img src="images/opt_loss.png" width = "1000" height = "200" />
 <img src="images/opt_grad.png" width = "700" height = "200" />
 
@@ -31,7 +31,6 @@ The plots above compares performance of the Krylov based method with ADAM and th
 
 The Tensorflow implementation of the second order method using Krylov subspace method can be found in the Github repository. 
 
-** Click on the project title above to learn more. **
 ---
 ## Projects @ NYU
 
