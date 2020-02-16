@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Research @ NYU Center For Data Science
+## Research @ NYU Center For Data Science
 
 [Symplectic Integration of Dynamical System with Deep Neural Network](http://example.com/)
 <img src="images/non-sep-hamiltonian.png?raw=true"/>
