@@ -4,6 +4,15 @@
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src=""
+      frameborder="0"
+      allowfullscreen="https://drive.google.com/open?id=1YxBP8rQis0HZQ9UJGCTXFrgh7g61Yp1l">
+  </iframe>
+</div>
 
 I came up with a framework for learning to integrate Hamiltonian Dynamics through unsupervised learning(where we have access only to the Hamiltonian) and supervised learning(where we have access to data). See above for examples of learned dynamics of 
 
