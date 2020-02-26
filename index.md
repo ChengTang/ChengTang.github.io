@@ -16,6 +16,8 @@ I came up with a framework for learning to integrate Hamiltonian Dynamics throug
 
 3. a spring-pendulum system with 2 degrees of freedom
 
+4. a 2D spring-mass system with 8 degress of freedom
+
 
 Symplecticity is built into the architecture of the neural network using the idea of Normalizing Flow and symplectic transformation, and the dynamic of a particular Hamiltonian system is learned through minimizing the loss function that encodes the physics of the Hamiltonian system. 
 
