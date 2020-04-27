@@ -3,6 +3,7 @@
 #### Learn more: [https://github.com/ChengTang/SymplecticNetwork](https://github.com/ChengTang/SymplecticNetwork)
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
+<img src="images/mass_spring_system2d.png?raw=true" width = "1000" height = "200" />
 <img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
 {% include googleDrivePlayer.html id=page.driveId %}
 
@@ -12,11 +13,13 @@ I came up with a framework for learning to integrate Hamiltonian Dynamics throug
 
 1. a non-separable Hamiltonian 
 
-2. a mass-spring system with 10 degrees of freedom. 
+2. a mass-spring system with 10 particles
 
-3. a spring-pendulum system with 2 degrees of freedom
+3. a 2D mass-spring system with 6 particles
 
-4. a 2D spring-mass system with 8 degress of freedom
+4. a spring-pendulum system with 2 degrees of freedom
+
+5. a 2D spring-mass system with 8 particles
 
 
 Symplecticity is built into the architecture of the neural network using the idea of Normalizing Flow and symplectic transformation, and the dynamic of a particular Hamiltonian system is learned through minimizing the loss function that encodes the physics of the Hamiltonian system. 
