@@ -4,7 +4,7 @@
 <img src="images/non-sep-hamiltonian.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system.png?raw=true" width = "1000" height = "200" />
 <img src="images/mass_spring_system2d.png?raw=true" width = "500" height = "250" />
-<img src="images/spring_pendulum.png?raw=true" width = "800" height = "200" />
+<img src="images/spring_pendulum.png?raw=true" width = "500" height = "250" />
 {% include googleDrivePlayer.html id=page.driveId %}
 
 
